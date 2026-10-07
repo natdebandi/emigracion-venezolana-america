@@ -3,8 +3,8 @@
 Tablero exploratorio sobre la emigración venezolana en el continente americano,
 con Bolivia como contraste.
 
-**Centro de Investigación en Inteligencia Artificial (CIAI) · UNSAM**
-Grupo de Demografías y Trazas Digitales — Natalia Debandi
+**Centro de Inteligencia Artificial Interdisciplinario (CIAI-ECyT) · UNSAM**
+Grupo Trazas Digitales — Natalia Debandi | ndebandi@unsam.edu.ar
 
 ## Qué contiene
 
